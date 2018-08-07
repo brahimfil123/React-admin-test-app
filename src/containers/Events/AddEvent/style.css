@@ -1,0 +1,14 @@
+.pac-container {
+    z-index: 10000 !important;
+    width: auto !important;
+    position: initial !important;
+    left: 0 !important;
+    right: 0 !important;
+    display: block !important;
+}
+.pac-container:empty{
+    display: none !important;
+}
+#PlacesAutocomplete__autocomplete-container {
+    z-index: 10000 !important;
+}

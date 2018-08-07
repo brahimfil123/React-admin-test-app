@@ -1,0 +1,13 @@
+.delete-user {
+    color: red;
+    padding: 5%;
+}
+
+.edit-user {
+    color: green;
+    padding: 5%;
+}
+.activate-user {
+    color: yellow;
+    padding: 5%;
+}
